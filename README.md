@@ -5,7 +5,7 @@
 
 ![Tiago= GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoSantos&show_icons=true&theme=highcontrast)
 
-## Tecnologias que uso no meu dia à dia 
+## Tecnologias que estou desenvolvendo
 
 <div style="display: inline_block"><br"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
